@@ -4,7 +4,7 @@ const Main = () => {
     return (
         <div>
            <ol>
-                  <li>Risk Concepts</li>
+                  <li> Concepts</li>
                    <li>IT Audit</li>
                    <li>Security and Breachesg/pong  </li>
                     <li><a  href="https://spectrum.ieee.org/pong"  >
